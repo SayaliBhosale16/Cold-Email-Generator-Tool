@@ -1,0 +1,2 @@
+# Cold Email Generator Tool
+ AI-Powered Email Writing Tool for B2B Outreach: This project is an end-to-end Large Language Model (LLM) and Generative AI tool that automates the creation of cold emails tailored for Software and AI Services companies. Built with Llama 3.1, ChromaDB, LangChain, and Streamlit, this tool leverages cutting-edge LLM capabilities and a vector-based retrieval system to produce customized emails, making it easy to engage potential clients.
